@@ -2,6 +2,8 @@ let userScore = 0;
 let compScore = 0;
 let drawScore=0;
 
+// Hello 
+
 const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg");
 
